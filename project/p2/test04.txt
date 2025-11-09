@@ -1,0 +1,7 @@
+BWBeach.pgm
+soldiers.ppm
+flag.ppm
+85
+3
+imageBlend04.pgm
+imageBlend04.ppm
